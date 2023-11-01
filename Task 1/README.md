@@ -8,6 +8,12 @@ We have been given dataset on Transaction Data and Purchase Behaviour Data in fi
 
 Also, our end goal is to form a strategy based on the findings to provide a clear recommendation to Julia the Category Manager so make sure your insights can have a commercial application.
 
+## Approach
+
+- Performed data exploration of both csv files and checked for null values or duplicate values. After checking for these and correcting any problems, we merged both the files into one single dataframe.
+- Dropped unncessary columns, extracted datatime features from the `Date` column and renamed the columns.
+- Extracted
+
 
 
 
