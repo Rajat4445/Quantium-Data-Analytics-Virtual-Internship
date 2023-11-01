@@ -10,9 +10,12 @@ Also, our end goal is to form a strategy based on the findings to provide a clea
 
 ## Approach
 
+### Data Preparation
 - Performed data exploration of both csv files and checked for null values or duplicate values. After checking for these and correcting any problems, we merged both the files into one single dataframe.
-- Dropped unncessary columns, extracted datatime features from the `Date` column and renamed the columns.
+- Dropped unncessary columns, removed any outlier, extracted datatime features from the `Date` column and renamed the columns.
 - Extracted features like `Brand name`, `Packet size`, `Flavour description` and `Product Type` from the `Product Name` column.
+
+### Data Exploration & EDA
 
 
 
