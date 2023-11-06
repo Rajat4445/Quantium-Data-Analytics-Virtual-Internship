@@ -17,6 +17,37 @@ Also, our end goal is to form a strategy based on the findings to provide a clea
 
 ### Data Exploration & EDA
 
+<div style="text-align:center; background-color:#add8e6; padding:10px; border-radius:5px;">
+    <h2 style="color:#000;">Sales Analysis and Marketing Insights</h2>
+</div>
+
+## Sales Drivers
+
+- The primary drivers of sales in the market are the `Budget - older families`, `Mainstream - young singles/couples` and `Mainstream - retirees` shoppers.
+
+## High Spending Segments
+
+- The higher spending on chips within the market is primarily due to the larger population sizes of `Mainstream - young singles/couples` and `Mainstream - retirees` segments. These segments have more buyers.
+
+## Higher Price per Packet
+
+- `Mainstream - midage` and `young singles and couples` segments exhibit a tendency to pay more per packet of chips, which suggests a strong inclination towards impulse buying behavior.
+
+## Impulse Buying Indication
+
+- The higher price per packet observed in the `Mainstream - midage` and `young singles and couples` segments provides a clear indication of impulse buying behavior among these consumer groups.
+
+## Tyrrells Preference
+
+- `Mainstream - young singles and couples` stand out as they are `23%` more likely to purchase `Tyrrells` chips compared to the rest of the population.
+
+## 🔥 Marketing Strategy Suggestion 🔥
+
+- To enhance the category's performance, it is suggested that the Category Manager consider strategically placing `Tyrrells` and smaller packs of chips in discretionary spaces near segments where young singles and couples frequent more often. This approach can increase visibility and encourage impulse buying behavior.
+
+
+This summary highlights the key insights derived from the sales analysis, providing valuable information for the Category Manager to optimize marketing strategies and boost sales in the market.
+
 
 
 
